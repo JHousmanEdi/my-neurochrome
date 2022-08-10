@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamberton-campaign/organizations/the-flower-capitol/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/lamberton-campaign/organizations/the-flower-capitol/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 

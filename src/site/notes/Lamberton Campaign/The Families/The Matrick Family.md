@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lamberton-campaign/the-families/the-matrick-family/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/lamberton-campaign/the-families/the-matrick-family/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 

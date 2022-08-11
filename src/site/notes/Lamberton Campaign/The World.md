@@ -21,4 +21,4 @@ darkMode: false
 Session Times: Every 2 Weeks Starting August 30th at 7:30 PM, at Jason's House 
 
 ## Index
-### [[Lamberton Campaign/Navigation/The Families|The Families]]
+### [[Lamberton Campaign/Navigation/Organizations|Organizations]]

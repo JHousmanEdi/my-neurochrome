@@ -17,7 +17,8 @@ marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false
 ```
 
-# Stolaria
+# A New Lamberton Tale
 Session Times: Every 2 Weeks Starting August 30th at 7:30 PM, at Jason's House 
 
-Furyborn
+## Index
+### [[Lamberton Campaign/Navigation/The Families|The Families]]

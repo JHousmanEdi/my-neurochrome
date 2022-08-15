@@ -10,4 +10,3 @@ To my loyal fans and interested readers, this compendium has taken years of my l
 ## Index:
 ### [[Atlas of New Lamberton|Atlas of New Lamberton]]
 ### [[Lamberton Campaign/Navigation/Notable Figures|Notable Figures]]
-#### [[The Families|The Families]]

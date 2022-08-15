@@ -6,12 +6,12 @@
 ## Benyl
 ## 
 # Major Families
-## [[Lamberton Campaign/The Families/The Hilo Family|The Hilo Family]]
-## [[Lamberton Campaign/The Families/The Matrick Family|The Matrick Family]]
-## [[Lamberton Campaign/The Families/The Clay Family|The Clay Family]]
-## [[Lamberton Campaign/The Families/The Orion Family|The Orion Family]]
-## [[Lamberton Campaign/The Families/The Detrimene Family|The Detrimene Family]]
+## [[Lamberton Campaign/Organizatioms/The Families/The Hilo Family|The Hilo Family]]
+## [[Lamberton Campaign/Organizatioms/The Families/The Matrick Family|The Matrick Family]]
+## [[Lamberton Campaign/Organizatioms/The Families/The Clay Family|The Clay Family]]
+## [[Lamberton Campaign/Organizatioms/The Families/The Orion Family|The Orion Family]]
+## [[Lamberton Campaign/Organizatioms/The Families/The Detrimene Family|The Detrimene Family]]
 
 # Other Organizations
-## [[Lamberton Campaign/The Families/The Parliament|The Parliament]]
-## [[Lamberton Campaign/The Families/The Blue Core|The Blue Core]]
+## [[Lamberton Campaign/Organizatioms/Government Affiliated/The Parliament|The Parliament]]
+## [[Lamberton Campaign/Organizatioms/Government Affiliated/The Blue Core|The Blue Core]]
